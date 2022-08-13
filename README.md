@@ -16,3 +16,15 @@
 
 <h2>Conclusion:</h2>
 <p>From this regression analysis project, it is evident that both linear and polynomial regression models can be used to predict movie box office revenue with some degree of accuracy. The multiple feature linear regression models performed surprisingly well, but the multiple feature polynomial regression models yielded the best results. Out of all of these models, the multiple feature polynomial regression model with n-degree=2 provided the most accurate movie box office revenue predictions and would be the model of choice for this problem. Lastly, the steps to run the source code can be found in the Appendix:</p>
+
+<h2>Appendix:</h2>
+<h3>Movie Feature Correlation Matrix</h3>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
+<h3>Single Feature Linear Regression Plot</h3>
+
+<h3>Linear Regression Model Performance Table</h3>
+
+<h3>Single Feature Polynomial Regression Plot</h3>
+
+<h3>Polynomial Regression Model Performance Table</h3>

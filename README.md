@@ -19,6 +19,7 @@
 
 <h2>Appendix:</h2>
 <h3>Movie Feature Correlation Matrix</h3>
+
 ![movie_feature_correlation_matrix](https://user-images.githubusercontent.com/87158392/184511849-bfdd7582-5a66-4839-a6a9-78050014053a.png)
 
 <h3>Single Feature Linear Regression Plot</h3>

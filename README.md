@@ -19,7 +19,7 @@
 
 <h2>Appendix:</h2>
 <h3>Movie Feature Correlation Matrix</h3>
-![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
+![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png?raw=true)
 
 <h3>Single Feature Linear Regression Plot</h3>
 

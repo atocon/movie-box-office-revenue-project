@@ -39,6 +39,7 @@
 ![Polynomial Regression Performance Table](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/polynomial_regression_performance_table.png)
 
 <h2>Instructions to Run Source Code</h2>
+
 1.Download the source code files
 2.Open the source code files in an IDE of choice
 3.Ensure the tmdb_movie_data.csv file is in the same file path as the source code, this file contains the movie data which will be used in the regression analysis

@@ -39,10 +39,10 @@
 ![Polynomial Regression Performance Table](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/polynomial_regression_performance_table.png)
 
 <h2>Instructions to Run Source Code</h2>
-1. Download the source code files.
-2. Open the source code files in an IDE of choice.
-3. Ensure the tmdb_movie_data.csv file is in the same file path as the source code, this file contains the movie data which will be used in the regression analysis.
-4. Run the movie_corr_matrix.py file first to display the movie feature correlation matrix.
-5. Run the linear_reg_analysis.py file to display plots and performance metrics from the linear regression analysis.
-6. Run the polynomial_reg_analysis.py file to display plots and performance metrics from the polynomial regression analysis.
-7. End.
+1.Download the source code files
+2.Open the source code files in an IDE of choice
+3.Ensure the tmdb_movie_data.csv file is in the same file path as the source code, this file contains the movie data which will be used in the regression analysis
+4.Run the movie_corr_matrix.py file first to display the movie feature correlation matrix
+5.Run the linear_reg_analysis.py file to display plots and performance metrics from the linear regression analysis
+6.Run the polynomial_reg_analysis.py file to display plots and performance metrics from the polynomial regression analysis
+7.End
